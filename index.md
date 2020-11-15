@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to this Sample GitHub Page
 
-I'm glad you are here. I plan to talk about ...
+Currently getting **Acquainted** with GitHub Pages 
